@@ -25,3 +25,7 @@ then add
       /etc/fastd/fastd-blacklist.sh $PEER_KEY
     ";
 
+4 - restart your fastd and you are ready to go:
+
+    /etc/init.d/fastd restart
+    
