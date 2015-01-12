@@ -3,11 +3,15 @@
   [
     {
       "pubkey": "5f4965072a034996589112e0101fcaa30360e8d36b22fd86f5d0512effd85286",
-      "comment": "2015-08-01 interconnecting CHRlS"
+      "comment": "2015-01-08 interconnecting CHRlS"
     },
     {
       "pubkey": "13ffef2d2535c4d391a15e53303a4979e524d7c9e5473a7596b59899e950cf8d",
-      "comment": "2015-09-01 interconnecting CHRlS"
+      "comment": "2015-01-09 interconnecting CHRlS"
+    },
+    {
+      "pubkey": "7c89d35e3699fa6120e82cb7833cba5981976609c003385a13ad537b86a3cac4",
+      "comment": "2015-01-12 interconnecting CHRlS (Dorsten01?)"
     },
     {
       "pubkey": "d05810068dfbe559463de2ba6cee861c3a910560f446c78fd4479f4a508e052d",
