@@ -2,6 +2,10 @@
   "peers": 
   [
     {
+      "pubkey": "eebd5c0680f025e74a79fe6b1fbd7b8f747850e55b2b364679529a549ffcdbf2",
+      "comment": "2015-01-24 luki2 interconnecting to Rheinufer // CHRlS"
+    },
+    {
       "pubkey": "5f4965072a034996589112e0101fcaa30360e8d36b22fd86f5d0512effd85286",
       "comment": "2015-01-08 interconnecting CHRlS"
     },
