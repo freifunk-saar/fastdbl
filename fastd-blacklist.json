@@ -40,6 +40,11 @@
     {
       "pubkey": "d05810068dfbe559463de2ba6cee861c3a910560f446c78fd4479f4a508e052d",
       "comment": "Bridged communities! //CyrusFox"
+    },
+    ,
+    {
+      "pubkey": "0a82c608203c1cc98d7e7d3bc1eb487b6dadb0d15c83829707635d6164a8dc2c",
+      "comment": "Broadcast Storm"
     }
   ]
 }
