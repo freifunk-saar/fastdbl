@@ -48,6 +48,22 @@
     {
       "pubkey": "8f227077eeac0f5add73c469f9f0bef8fdfa329e5fd0cfdc7215732b1e930de0",
       "comment": "Broadcast Storm #2"
+    },
+    {
+      "pubkey": "f84e7ca6eb5ff3bf04e4d881ebc60d3def46b562a6470adfa36e84dd735f8e31",
+      "comment": "Broadcast Storm #3"
+    },
+    {
+      "pubkey": "2da06846d4813a4f2b222a9350a66d2ff6292be160685c80d0b3b1a066b4ec33",
+      "comment": "Broadcast Storm #4"
+    },
+    {
+      "pubkey": "99ab4ced932859cde18f7c7a94c98bd635f79cb3991e6bcedb2f63d96a01e17a",
+      "comment": "Broadcast Storm #5"
+    },
+    {
+      "pubkey": "26ed976f8c12999dace1d529dd1c0176ba1f92336b8929a7fb0229ba19ce55d5",
+      "comment": "Broadcast Storm #6"
     }
   ]
 }
