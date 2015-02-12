@@ -64,6 +64,14 @@
     {
       "pubkey": "26ed976f8c12999dace1d529dd1c0176ba1f92336b8929a7fb0229ba19ce55d5",
       "comment": "Broadcast Storm #6"
+    },
+    {
+      "pubkey": "17ec678cb1ca77db20993001e290afa068fc824a54f7fe751259160073db3a7f",
+      "comment": "Broadcast Storm #7"
+    },
+    {
+      "pubkey": "085c4af980f6b8d4bf6d2c8d7b0641efa6129696cdd7a79346d7bb00ac8d73dd",
+      "comment": "Broadcast Storm #8"
     }
   ]
 }
