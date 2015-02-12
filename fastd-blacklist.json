@@ -72,6 +72,10 @@
     {
       "pubkey": "085c4af980f6b8d4bf6d2c8d7b0641efa6129696cdd7a79346d7bb00ac8d73dd",
       "comment": "Broadcast Storm #8"
+    },
+    {
+      "pubkey": "8f227077eeac0f5add73c469f9f0bef8fdfa329e5fd0cfdc7215732b1e930de0",
+      "comment": "Broadcast Storm #9"
     }
   ]
 }
