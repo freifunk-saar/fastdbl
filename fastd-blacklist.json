@@ -76,6 +76,10 @@
     {
       "pubkey": "8f227077eeac0f5add73c469f9f0bef8fdfa329e5fd0cfdc7215732b1e930de0",
       "comment": "Broadcast Storm #9"
+    },
+    {
+      "pubkey": "d7382ac395820316ef1d3674a525348b3616f0f72e062b756c8421423552b780",
+      "comment": "Broadcast Storm #10 MAC: 16:d0:20:ae:04:8c"
     }
   ]
 }
