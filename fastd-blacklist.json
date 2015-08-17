@@ -80,7 +80,11 @@
     {
       "pubkey": "d7382ac395820316ef1d3674a525348b3616f0f72e062b756c8421423552b780",
       "comment": "Broadcast Storm #10 MAC: 16:d0:20:ae:04:8c"
-    }
+    },
+    {
+      "pubkey": "85e693d1de79750ee4e377aa1b1852704d01f65014b8e1a9d9162b6b3c58b828",
+      "comment": "Panic Room Essen bridged Essen zum Ruhrgebiet MAC: c6:72:1f:7f:06:2c"
+    },
     {
       "pubkey": "dc5df238d43eeeb0b8a832d4eeeac43197397230643da90b1dda8fdb7a3688e3",
       "comment": "fastd Tunnel through fastd Tunnel resulting in 70MBit Traffic to nowhere."
