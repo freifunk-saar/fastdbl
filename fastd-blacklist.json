@@ -88,7 +88,7 @@
     {
       "pubkey": "dc5df238d43eeeb0b8a832d4eeeac43197397230643da90b1dda8fdb7a3688e3",
       "comment": "fastd Tunnel through fastd Tunnel resulting in 70MBit Traffic to nowhere."
-    }
+    },
     {
       "pubkey": "22f4467c107a411d995d04f4e1cf58636bb5c59140bfe135fe3d7a72909cba19",
       "comment": "Another fastd Tunnel through fastd Tunnel. Juel-Jeans-Planet-CPE"
