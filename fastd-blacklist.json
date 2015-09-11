@@ -88,6 +88,10 @@
     {
       "pubkey": "22f4467c107a411d995d04f4e1cf58636bb5c59140bfe135fe3d7a72909cba19",
       "comment": "Another fastd Tunnel through fastd Tunnel. Juel-Jeans-Planet-CPE"
+    },
+    {
+      "pubkey": "a8097e9407a0e57d62315af5192165837504e241f93167f9daab13586688e3a7",
+      "comment": "Bridge between Essen and EN"
     }
   ]
 }
