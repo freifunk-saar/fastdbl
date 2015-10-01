@@ -92,6 +92,10 @@
     {
       "pubkey": "a8097e9407a0e57d62315af5192165837504e241f93167f9daab13586688e3a7",
       "comment": "Bridge between Essen and EN"
+    },
+    {
+      "pubkey": "36b0d308ecc72ec75399726341fe6bd8c220261278b8bea548e784553f9059ce",
+      "comment": "Bridge between Dortmund/Essen/FFRGW FF-UN-Eintrachtstrasse-22"
     }
   ]
 }
