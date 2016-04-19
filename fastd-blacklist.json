@@ -4,6 +4,14 @@
     {
       "pubkey": "eebd5c0680f025e74a79fe6b1fbd7b8f747850e55b2b364679529a549ffcdbf2",
       "comment": "Demo key, not really blocked, but this is how this would look like"
+    },
+    {
+      "pubkey": "1b12308f0faea38d80740d1cd21e83cfc015b3dd4cb109ac1cb56dfc826448d1",
+      "comment": "Key used by node in muenster domain"
+    },
+    {
+      "pubkey": "407e8142b1a6f5170065f34a6776437612fe69b15a47793c2fd562bbad46015f",
+      "comment": "Key used by node in muenster domain"
     }
   ]
 }
