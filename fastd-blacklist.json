@@ -12,6 +12,10 @@
     {
       "pubkey": "407e8142b1a6f5170065f34a6776437612fe69b15a47793c2fd562bbad46015f",
       "comment": "Key used by node in muenster domain"
+    },
+    {
+      "pubkey": "00b36e04b4099ff320956c51387de520c8d92a4c26289f210b9f1013d9125068",
+      "comment": "Key used by node in muenster domain"
     }
   ]
 }
